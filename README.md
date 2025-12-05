@@ -1,4 +1,4 @@
-# Laon-Eligibility-Prediction
+# Loan-Eligibility-Prediction
 Loan Eligibility Prediction Using Logistic Regression
 
 📌 ***Loan Eligibility Prediction using Logistic Regression***
