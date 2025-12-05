@@ -66,9 +66,6 @@ Typical dataset fields include:
 
 ✔ 4. Model Evaluation
 - Accuracy score
-- Confusion matrix
-- Precision, Recall, F1-Score
-- ROC curve and AUC score
 
 ⭐ ***Model Implementation (Code)***
 ### importing libraries
